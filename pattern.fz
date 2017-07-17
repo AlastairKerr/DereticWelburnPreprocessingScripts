@@ -1,0 +1,8 @@
+1	pattern:[RK][RK]x[TS][FAST]
+2	pattern:[RK][RK]x[TS][ILVM]
+3	pattern:x[RK][RK][TS][FAST]
+4	pattern:x[RK][RK][TS][ILVM]
+5	pattern:[RK][RK][RK][TS][ILVM]
+6	pattern:[RK][RK][RK][TS][FAST]
+7	pattern:{RK}[RK]{RK}[TS][FAST]
+8	pattern:{RK}[RK]{RK}[TS][ILVM]
