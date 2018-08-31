@@ -6,4 +6,5 @@ library(shiny)
 runGitHub("DereticWelburnApp", AlastairKerr")
 ```
 
-Details of the purpose of each script can be found in the file Methods.md.
+Details of each script can be found in the file Methods.md and the repository for the app is located here: https://github.com/AlastairKerr/DereticWelburnApp
+
